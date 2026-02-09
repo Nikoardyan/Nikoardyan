@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+my name is Niko Ardyan as junior Data Science 
 <!--
 **Nikoardyan/Nikoardyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
